@@ -1,4 +1,5 @@
 import Vue from './instance/index'
+# 我就在这里加了个注释
 import { initGlobalAPI } from './global-api/index'
 import { isServerRendering } from 'core/util/env'
 import { FunctionalRenderContext } from 'core/vdom/create-functional-component'
